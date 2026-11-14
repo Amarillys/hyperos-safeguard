@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">温控亮屏守护</string>
+    <string name="device_admin_description">用于在设备过热或连续亮屏超时时安全锁定屏幕，保护电池寿命与视力健康。</string>
+</resources>
